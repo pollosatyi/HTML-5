@@ -1,0 +1,15 @@
+body{
+    background-color: #add8e6;
+}
+
+.color{
+    background-color: #f5f5f5;
+}
+
+.display_flex{
+    display:flex;
+}
+
+.flex_direction_row{
+    flex-direction: row;
+}
