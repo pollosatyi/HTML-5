@@ -1,15 +1,45 @@
-body{
+body {
     background-color: #add8e6;
 }
 
-.color{
+p {
     background-color: #f5f5f5;
+    margin: 0vh;
 }
 
 .display_flex{
     display:flex;
 }
 
-.flex_direction_row{
-    flex-direction: row;
+.width_33{
+    width:31%;
+    height: auto;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
+
+img{
+    vertical-align: top;
+}
+
+.flex-direction_column{
+    flex-direction: column;
+}
+
+.margin_d{
+    margin:1vw;
+}
+
+.margin_45{
+    margin-top: -45px;
+}
+
+.margin_145{
+    margin-top:-145px;
+}
+
+.margin_100{
+    margin-top:-100px;
 }
