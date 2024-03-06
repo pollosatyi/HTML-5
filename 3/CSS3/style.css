@@ -13,3 +13,27 @@ h1 {
     margin: 0px;
     padding: 25px;
 }
+
+.background_color_1{
+    background-color: #dcdcdc;
+}
+
+.display_grid{
+    display:grid;
+}
+
+.grid_template_column{
+    grid-template-columns: repeat(5,400px);
+}
+
+.grid_template_row{
+    grid-template-rows: 82vh;
+}
+
+.grid_gap{
+    grid-gap: 3vh;
+}
+
+.margin{
+    margin:3vh;
+}
