@@ -76,3 +76,10 @@ h1 {
     margin-right: 5px;
 }
 
+.overlow_y{
+    overflow-y: scroll;
+}
+
+.overlow_x{
+    overflow-x: scroll;
+}
